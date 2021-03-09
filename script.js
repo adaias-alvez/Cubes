@@ -21,8 +21,3 @@ const ulSquares = document.querySelector("ul.squares");
 
      ulSquares.appendChild(li);
  }
- 
- 
-
-
-		
